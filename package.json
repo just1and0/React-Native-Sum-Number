@@ -1,6 +1,6 @@
 {
   "name": "react-native-sum-number",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "the offical react native sum number",
   "main": "index",
   "react-native": "index",
