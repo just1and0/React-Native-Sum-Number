@@ -1,0 +1,30 @@
+{
+  "name": "react-native-sum-number",
+  "version": "0.0.1",
+  "description": "the offical react native sum number",
+  "main": "index",
+  "react-native": "index",
+  "source": "index",
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "sdk"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/just1and0/React-Native-Sum-Number.git"
+  },
+  "author": "Oluwatobi Shokunbi <ayoshokz@gmail.com> (https://github.com/just1and0)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/just1and0/React-Native-Sum-Number/issues"
+  },
+  "homepage": "https://github.com/just1and0/React-Native-Sum-Number#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
